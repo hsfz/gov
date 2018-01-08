@@ -1,0 +1,33 @@
+.css {
+	FONT-SIZE: 12px; COLOR: #ffffff
+}
+.cssgreen {
+	FONT-SIZE: 16px; COLOR: #003300; LINE-HEIGHT: 22px
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+; font-size: 12px
+}
+A:hover {
+	COLOR: #CCCC00; TEXT-DECORATION: blink
+; font-size: 12px
+}
+A:active {
+	COLOR: #ffffff
+; font-size: 12px; text-decoration: none
+}
+.cssh {
+	FONT-SIZE: 12px; COLOR: #303000; LINE-HEIGHT: 18px
+}
+.green {
+	FONT-SIZE: 12px; COLOR: #2f9833; LINE-HEIGHT: 20px
+}
+.cssye {
+	FONT-SIZE: 12px; COLOR: #8d7947; LINE-HEIGHT: 20px
+}
+css {  font-size: 12px; color: #FFFFFF; text-decoration: none}
+td {  font-size: 12px; color: #FFFFFF; text-decoration: none}
+css.css {  font-size: 12px; color: #FFFFFF; text-decoration: none}
